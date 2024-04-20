@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\firat\\Desktop\\udemy projeler\\UrunStokUygulama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8866BB-FF06-47AF-B967-11CD3B94861A}|UrunStokUygulama\\UrunStokUygulama.csproj|c:\\users\\firat\\desktop\\udemy projeler\\urunstokuygulama\\urunstokuygulama\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8866BB-FF06-47AF-B967-11CD3B94861A}|UrunStokUygulama\\UrunStokUygulama.csproj|solutionrelative:urunstokuygulama\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8866BB-FF06-47AF-B967-11CD3B94861A}|UrunStokUygulama\\UrunStokUygulama.csproj|c:\\users\\firat\\desktop\\udemy projeler\\urunstokuygulama\\urunstokuygulama\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B8866BB-FF06-47AF-B967-11CD3B94861A}|UrunStokUygulama\\UrunStokUygulama.csproj|solutionrelative:urunstokuygulama\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8866BB-FF06-47AF-B967-11CD3B94861A}|UrunStokUygulama\\UrunStokUygulama.csproj|c:\\users\\firat\\desktop\\udemy projeler\\urunstokuygulama\\urunstokuygulama\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B8866BB-FF06-47AF-B967-11CD3B94861A}|UrunStokUygulama\\UrunStokUygulama.csproj|solutionrelative:urunstokuygulama\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8866BB-FF06-47AF-B967-11CD3B94861A}|UrunStokUygulama\\UrunStokUygulama.csproj|c:\\users\\firat\\desktop\\udemy projeler\\urunstokuygulama\\urunstokuygulama\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B8866BB-FF06-47AF-B967-11CD3B94861A}|UrunStokUygulama\\UrunStokUygulama.csproj|solutionrelative:urunstokuygulama\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8866BB-FF06-47AF-B967-11CD3B94861A}|UrunStokUygulama\\UrunStokUygulama.csproj|c:\\users\\firat\\desktop\\udemy projeler\\urunstokuygulama\\urunstokuygulama\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8866BB-FF06-47AF-B967-11CD3B94861A}|UrunStokUygulama\\UrunStokUygulama.csproj|solutionrelative:urunstokuygulama\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frmanaform.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\UrunStokUygulama\\UrunStokUygulama\\Frmanaform.cs",
+              "RelativeDocumentMoniker": "UrunStokUygulama\\Frmanaform.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\UrunStokUygulama\\UrunStokUygulama\\Frmanaform.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UrunStokUygulama\\Frmanaform.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:48:35.907Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmgiris.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\UrunStokUygulama\\UrunStokUygulama\\frmgiris.cs",
+              "RelativeDocumentMoniker": "UrunStokUygulama\\frmgiris.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\UrunStokUygulama\\UrunStokUygulama\\frmgiris.cs",
+              "RelativeToolTip": "UrunStokUygulama\\frmgiris.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:45:35.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmgiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\UrunStokUygulama\\UrunStokUygulama\\frmgiris.cs",
+              "RelativeDocumentMoniker": "UrunStokUygulama\\frmgiris.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\UrunStokUygulama\\UrunStokUygulama\\frmgiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UrunStokUygulama\\frmgiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:41:28.154Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmistatistik.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\UrunStokUygulama\\UrunStokUygulama\\frmistatistik.cs",
+              "RelativeDocumentMoniker": "UrunStokUygulama\\frmistatistik.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\UrunStokUygulama\\UrunStokUygulama\\frmistatistik.cs",
+              "RelativeToolTip": "UrunStokUygulama\\frmistatistik.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:20:42.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmistatistik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\UrunStokUygulama\\UrunStokUygulama\\frmistatistik.cs",
+              "RelativeDocumentMoniker": "UrunStokUygulama\\frmistatistik.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\UrunStokUygulama\\UrunStokUygulama\\frmistatistik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UrunStokUygulama\\frmistatistik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:57:11.307Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
